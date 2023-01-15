@@ -5,7 +5,8 @@ you will be able to work from various locations while accessing files from anoth
 
 ## The CSE15L Account
 First to be able to even use this virtual environment, we need an account to do so. Luckily being in CSE 15L, we have an account for you ready. 
-All we need to do is access it</br> </br>
+All we need to do is access it
+
 To find your account go to link: https://sdacs.ucsd.edu/~icc/index.php and log in using your UCSD account username, and PID.
 
 Once you have logged in, you are prompted with this page, and once here click on the cs15lwi23XXX.
