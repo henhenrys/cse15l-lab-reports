@@ -70,9 +70,11 @@ There are many commands that you can do while in here.
 * cp
 * cat
 * And many more
+
 All of these comands all do something unique in their own way. Like how ls, lists out all the files present in the current directory. cd is changing
 directories where you can go from one file to another. ls -a is to all possible directories in the current directory. cp is just copying something into
-another file. And cat is just to essentially print out whatever is present in the file into the terminal.
+another file. And cat is just to essentially print out whatever is present in the file into the terminal. Also to exit out of your remote account, just
+type exit into the terminal, and the remote connection will disconnect and you will be back into your own machine's account.
 
 <img width="552" alt="image" src="https://user-images.githubusercontent.com/108485221/212538363-db19c859-864b-4ae4-9c17-8a4df482f1d4.png"> 
 
