@@ -7,7 +7,7 @@ you will be able to work from various locations while accessing files from anoth
 First to be able to even use this virtual environment, we need an account to do so. Luckily being in CSE 15L, we have an account for you ready. 
 All we need to do is access it
 
-To find your account go to link: https://sdacs.ucsd.edu/~icc/index.php and log in using your UCSD account username, and PID.
+To find your account go to link: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) and log in using your UCSD account username, and PID.
 
 Once you have logged in, you are prompted with this page, and once here click on the cs15lwi23XXX.
 
@@ -30,8 +30,8 @@ will not take affect immediately, and will take some time before it goes into ef
 
 ## Visual Studio Code
 Many people will have some sort of IDE installed, whether it be VS code or something else, it will still work. If you do have VS Code or any other IDE skip
-this and move onto the next step. Otherwise stick around. First, go to https://code.visualstudio.com/download. There you can select a specific download, 
-based upon your operating system. 
+this and move onto the next step. Otherwise stick around. First, go to [https://code.visualstudio.com/download](https://code.visualstudio.com/download). 
+There you can select a specific download, based upon your operating system. 
 
 <img width="552" alt="Screen Shot 2023-01-15 at 2 57 51 AM" src="https://user-images.githubusercontent.com/108485221/212536732-518d402e-b125-4be8-b633-10215d6214be.png"> 
 
@@ -46,7 +46,7 @@ Once all of this has been done, you should be able to open up VS code and now yo
 ## Remotely Connecting to Account
 A lot of what is next will involve using the terminal to get access to our remote account. We will be using git commands along the way as well, and as
 a result we need Git as well. Natively on Mac and Linux based machines, git is typically already on you computer and nothing needs to be done. But on Windows,
-we will need to install that. To install use this link: https://gitforwindows.org/ and once installed open a new terminal in VS Code.
+we will need to install that. To install use this link: [https://gitforwindows.org/](https://gitforwindows.org/) and once installed open a new terminal in VS Code.
 
 <img width="552" alt="image" src="https://user-images.githubusercontent.com/108485221/212537281-ca8dfa2d-3285-4cdf-a283-5bc036e7e331.png">
 
