@@ -50,7 +50,7 @@ we will need to install that. To install use this link: [https://gitforwindows.o
 
 <img width="552" alt="image" src="https://user-images.githubusercontent.com/108485221/212537281-ca8dfa2d-3285-4cdf-a283-5bc036e7e331.png">
 
-Once here, we would type in 
+Once here, we would type in (the xxx is the numbers of the cs15lwiXXX account when changing password)
 ```
 $ ssh cs15lwi23XXX@ieng6.ucsd.edu
 ```
