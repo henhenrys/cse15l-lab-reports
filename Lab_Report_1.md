@@ -50,8 +50,20 @@ we will need to install that. To install use this link: [https://gitforwindows.o
 
 <img width="552" alt="image" src="https://user-images.githubusercontent.com/108485221/212537281-ca8dfa2d-3285-4cdf-a283-5bc036e7e331.png">
 
-Once here, we would type in "***ssh cs15lwi23XXX@ieng6.ucsd.edu***". As it will be your first time logging in on your machine, it will ask if you  
-"**Are you sure you want to continue connecting(yes/no/[fingerprint])?**" In which you should type into the terminal **yes**. Then it will ask for a password.
+Once here, we would type in 
+```
+$ ssh cs15lwi23XXX@ieng6.ucsd.edu
+```
+ As it will be your first time logging in on your machine, it will ask if you  
+ 
+```
+Are you sure you want to continue connecting(yes/no/[fingerprint])?
+```
+In which you should type into the terminal 
+```
+$ yes
+```
+Then it will ask for a password.
 This is where the password you had made earlier will come into affect. Type in you password(*Even if it seems like nothing is being typed into the terminal
 it is there, it is just not showing it*).
 
@@ -72,8 +84,7 @@ There are many commands that you can do while in here.
 * And many more
 
 All of these comands all do something unique in their own way. Like how ls, lists out all the files present in the current directory. cd is changing
-directories where you can go from one file to another. ls -a is to all possible directories in the current directory. cp is just copying something into
-another file. And cat is just to essentially print out whatever is present in the file into the terminal. Also to exit out of your remote account, just
+directories where you can go from one file to another. ls -a is to all possible directories in the current directory. cp is just copying a file/directory into a different location(like from a local machine to the remote server). And cat is just to essentially print out whatever is present in the file into the terminal. Also to exit out of your remote account, just
 type exit into the terminal, and the remote connection will disconnect and you will be back into your own machine's account.
 
 <img width="552" alt="image" src="https://user-images.githubusercontent.com/108485221/212538363-db19c859-864b-4ae4-9c17-8a4df482f1d4.png"> 
