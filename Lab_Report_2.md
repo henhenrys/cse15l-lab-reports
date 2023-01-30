@@ -4,6 +4,7 @@ When we think of servers, we might think of it as some sort of place in which da
 
 ### The Code
 <img width="551" alt="image" src="https://user-images.githubusercontent.com/108485221/215415842-38edf5f4-1bd5-4d2a-b2e7-43143bd38278.png">
+
 In the above photo shows the code that is able to implment and allow for the Simple String Server to run. In it we see that we are able to identify what our URL looks like, and depending upon it will perform various tasks. In here it will take cases in which the path is either
 
 ```
