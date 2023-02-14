@@ -42,6 +42,8 @@ Essentially in doing -empty, it is looking through all the possible paths within
 man find
 ```
 command and found the -empty and its description of its performance.
+
+And originally I came accross this command line argument from [https://geekflare.com/linux-find-commands/](https://geekflare.com/linux-find-commands/)
 ### Interesting Command Line Argument #2 | -delete
 The -delete command is very useful in getting rid of files, directories, and anything that has been found. As I talked about earlier, the -empty command is good to find out anything empty given the path. Thus, using it with -delete could allow for the file to be cleansed easily.
 
@@ -94,6 +96,8 @@ When we do the -delete command, we essentially are removing whatever arguments t
 man find
 ```
 and reading through the description that was given for the command. And following the performance of -delete through my own practice.
+
+I also originally discovered this command through [https://geekflare.com/linux-find-commands/](https://geekflare.com/linux-find-commands/).
 ### Interesting Command Line Argument #3 | -size n
 Being able to see what type of files takes up the most space can be useful. We will be able to see what are things that exceed a certain amount of bytes, and can delete them or change them acordingly. Say for instance we want to find out what is the smallest things are in the written_2 folder, we could do
 ```
@@ -124,6 +128,8 @@ As a whole, the -size n allows us to look for files within our directory and loo
 man find
 ```
 command where I was able to read up on the -size n command and that functionality of it.
+
+Originally, I did find this command line argument also at [https://geekflare.com/linux-find-commands/](https://geekflare.com/linux-find-commands/).
 ### Interesting Command Line Argument #4 | -type n
 It is nice sometimes to just look for things specific to files/directories, or anything else. Being able to differentiate and isolate things specifically will just make out lives easier. Doing so will make it so we wouldn't need to use `ls` every time we want to find any file. It can also be used to find all of our .txt files faster too. For instance, lets say we want to see how many directories there are in the written_2 folder, because we want to isolate each directory for it's own purpose, we would do
 ```
@@ -377,12 +383,14 @@ written_2/travel_guides/berlitz2/Vallarta-History.txt
 written_2/travel_guides/berlitz2/Vallarta-WhatToDo.txt
 written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt
 ```
-which is all the files inside of the written_2 directory. This is also very much easier than that of the way we were taught in class too, needing fewer characters to achieve the same goal.
+which is all the files inside of the written_2 directory. This is also very much easier than that of the way we were taught in class too, needing fewer characters to achieve the same goal. 
 
 As a whole, the -type n allows us to isolate certain types of things, based on their categorization. There are many key values that mean different things, like how f is a general file, and d is directories. This just simplifies the way to look for certain things based upon their categorization. This is useful as it becomes a tool to find things in relation to their typing. It makes it so if we are only dealing with directories, we can easily pull up every directory in the given folder for our use case. Lastly, I also found this again by using the
 ``` 
 man find
 ```
 command in the terminal and used the description that was given to make examples and explain its functionality.
+
+I originally discovered this at [https://geekflare.com/linux-find-commands/](https://geekflare.com/linux-find-commands/) as well, and found out more on it as I looked on `man find`.
 ## Couclusion
 As a whole, every command that we can do in the terminal isn't a one sided command, only able to execute things based on what their initial build is. It does open my eyes up to seeing what more can these commands do. As we know that there are many commands out there, they all have some sort of function, and contribute in same way to being useful. It does make me feel way more confident that I still have more to learn about commands and that I still have more to grow. I feel with every day that goes by, I and my peers will learn more and more and become more capable in these commands.
